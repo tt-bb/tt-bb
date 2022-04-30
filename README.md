@@ -36,8 +36,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tt-bb&show_icons=true&theme=dracula&locale=en&layout=compact" alt="tt-bb" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tt-bb&show_icons=true&theme=dracula&locale=en" alt="tt-bb" /></p>
-
-# Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
