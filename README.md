@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm tt-bb</h1>
-<h3 align="center">A passionate Network Administrator from Belgium and a Python enthousiast</h3>
+<h2 align="center">A passionate Network Administrator from Belgium and a Python enthousiast</h2>
 <!-- <img src="https://komarev.com/ghpvc/?username=tt-bb&label=Profile%20views&color=4caf4f&style=flat" alt="tt-bb" /> -->
 
 <br />
@@ -35,7 +35,7 @@ ttbb = {
 
 ## Connect with me
 
-### Social
+<h3 align="center">Social</h3>
 
 <p align="center">
     <a href="mailto:ttbb_@outlook.com"><img src="https://img.shields.io/badge/@Mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="30"></a>
@@ -47,7 +47,7 @@ ttbb = {
 
 </p>
 
-### Website and blog
+<h3 align="center">Website and blog</h3>
 
 <p align="center">
     <a href="https://tt-bb.github.io"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" height="30"></a>
@@ -55,7 +55,7 @@ ttbb = {
     <a href="https://tiffanie-boreux.netflify.app"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="30"></a>
 </p>
 
-### IT
+<h3 align="center">IT</h3>
 
 <p align="center">
     <a href="https://dev.to/ttbb"><img src="https://img.shields.io/badge/ttbb-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" height="30" /></a>
