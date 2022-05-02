@@ -54,13 +54,13 @@ ttbb = {
 ## Stack, softwares and tools
 
 | **Stack** | **Softwares** | **Tools** | **OS** |
-|-----------|---------------|-----------|--------|
+|:---------:|:-------------:|:---------:|--------|
 | <img src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/language-python.png"> <img src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/language-javascript.png"> | <img src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/firefox.png"> <img src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/blender-software.png"> | <img src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/language-markdown.png"> <img src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/bash.png"> | Work : <img src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/debian.png"> |
 | <img src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/language-html5.png"> <img src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/language-css3.png"> <img src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/sass.png">| <img src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/microsoft-onenote.png"> <img src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/microsoft-visual-studio.png"> | <img src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/git.png"> | Home : <img src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/apple.png"> <img src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/microsoft-windows.png"> |
 
 ### Terminal
 
-<a><img src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/application-brackets-outline.png">iTerm2</a>
+<a href="https://iterm2.com/"><img src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/application-brackets-outline.png"> : iTerm2</a>
 <br />
 <img src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/terminal.png">
 
