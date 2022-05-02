@@ -1,12 +1,10 @@
-<h1 align="center">Hi 👋, I'm tt-bb</h1>
+<p align="center"><img src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/banner.png" /></p>
+
+<h1 align="center">Hi, tt-bb here! 👋</h1>
 <h2 align="center">A passionate Network Administrator from Belgium and a Python enthousiast</h2>
+
 <!-- <img src="https://komarev.com/ghpvc/?username=tt-bb&label=Profile%20views&color=4caf4f&style=flat" alt="tt-bb" /> -->
 
-<br />
-
-<p align="center"><a href="https://app.daily.dev/ttbb"><img src="https://api.daily.dev/devcards/516b56b2bf3245df827cab5798af5b17.png?r=9dx" width="300" alt="ttbb's Dev Card"/></a></p>
-
----
 
 ## I'm a Student!
 
@@ -14,8 +12,8 @@
 - 🥅 2022 Goals: Learn more about **Python** and **web development**
 - 👨‍💻 All of my projects are available at [tiffanie-boreux.netlify.app](https://tiffanie-boreux.netlify.app)
 - 📝 I regularly write articles on [tt-bb.github.io](https://tt-bb.github.io)
-- 💬 Ask me about **Linux**
-- ⚡ Fun fact **I think I am funny !** (I hope)
+- 💬 Ask me about **Linux** and **Networks**
+- ⚡ Fun fact **I think I am funny !** (I hope...)
 
 ## A little more about me
 
@@ -35,32 +33,22 @@ ttbb = {
 
 ## Connect with me
 
-<h3 align="center">Social</h3>
+### Social
 
-<p align="center">
-    <a href="mailto:ttbb_@outlook.com"><img src="https://img.shields.io/badge/@Mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="30"></a>
-    <a href="https://t.me/koala_kiwi"><img src="https://img.shields.io/badge/tiffanie-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30"></a>
-    <a href="https://fb.com/tiffanie.boreux"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30"></a>
-    <a href="https://instagram.com/koala.kiwiwi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"></a>
-    <a href="https://linkedin.com/in/tiffanie-boreux-828439176"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"></a>
-    <a href="https://twitter.com/pop_grr"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="30"></a>
+- <a href="https://fb.com/tiffanie.boreux"><img src="https://raw.githubusercontent.com/tt-bb/tt-bb/961ac66dbd7533c27015513427efd86d0c8ba58a/assets/facebook-fill.svg"></a>
+- <a href="https://instagram.com/koala.kiwiwi"><img src="https://raw.githubusercontent.com/tt-bb/tt-bb/961ac66dbd7533c27015513427efd86d0c8ba58a/assets/instagram-line.svg"></a>
+- <a href="https://linkedin.com/in/tiffanie-boreux-828439176"><img src="https://raw.githubusercontent.com/tt-bb/tt-bb/961ac66dbd7533c27015513427efd86d0c8ba58a/assets/linkedin-fill.svg"></a>
+- <a href="https://www.reddit.com/user/tt-bb_"><img src="https://raw.githubusercontent.com/tt-bb/tt-bb/961ac66dbd7533c27015513427efd86d0c8ba58a/assets/reddit-line.svg"></a>
+- <a href="https://stackoverflow.com/users/19015182/ttbb"><img src="https://raw.githubusercontent.com/tt-bb/tt-bb/961ac66dbd7533c27015513427efd86d0c8ba58a/assets/stack-overflow-line.svg"></a>
+- <a href="https://t.me/koala_kiwi"><img src="https://raw.githubusercontent.com/tt-bb/tt-bb/961ac66dbd7533c27015513427efd86d0c8ba58a/assets/telegram-line.svg"></a>
+- <a href="https://twitter.com/pop_grr"><img src="https://raw.githubusercontent.com/tt-bb/tt-bb/961ac66dbd7533c27015513427efd86d0c8ba58a/assets/twitter-fill.svg"></a>
+- <a href="mailto:ttbb_@outlook.com"><img src="https://raw.githubusercontent.com/tt-bb/tt-bb/6ef0c02a6dc318e01364c0c45de5883e4e878a13/assets/mail-send-line.svg"></a>
 
-</p>
-
-<h3 align="center">Website and blog</h3>
-
-<p align="center">
-    <a href="https://tt-bb.github.io"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" height="30"></a>
-    <a href="https://tt-bb.github.io/feeds/all.atom.xml"><img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" height="30"></a>
-    <a href="https://tiffanie-boreux.netflify.app"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="30"></a>
-</p>
-
-<h3 align="center">IT</h3>
-
-<p align="center">
-    <a href="https://dev.to/ttbb"><img src="https://img.shields.io/badge/ttbb-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" height="30" /></a>
-    <a href=""><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="30"></a>
-</p>
+### Websites and blog
+    
+- <a href="https://tiffanie-boreux.netlify.app/"><img src="https://raw.githubusercontent.com/tt-bb/tt-bb/961ac66dbd7533c27015513427efd86d0c8ba58a/assets/earth-line.svg"></a>
+- <a href="https://tt-bb.github.io"><img src="https://raw.githubusercontent.com/tt-bb/tt-bb/961ac66dbd7533c27015513427efd86d0c8ba58a/assets/pencil-line.svg"></a>
+- <a href="https://tt-bb.github.io/feeds/all.atom.xml"><img src="https://raw.githubusercontent.com/tt-bb/tt-bb/961ac66dbd7533c27015513427efd86d0c8ba58a/assets/rss-fill.svg"></a>
 
 ## Stack, softwares and tools
 
