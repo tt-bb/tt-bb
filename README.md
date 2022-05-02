@@ -42,39 +42,31 @@ ttbb = {
 - <a href="https://stackoverflow.com/users/19015182/ttbb"><img src="https://raw.githubusercontent.com/tt-bb/tt-bb/961ac66dbd7533c27015513427efd86d0c8ba58a/assets/stack-overflow-line.svg"></a>
 - <a href="https://t.me/koala_kiwi"><img src="https://raw.githubusercontent.com/tt-bb/tt-bb/961ac66dbd7533c27015513427efd86d0c8ba58a/assets/telegram-line.svg"></a>
 - <a href="https://twitter.com/pop_grr"><img src="https://raw.githubusercontent.com/tt-bb/tt-bb/961ac66dbd7533c27015513427efd86d0c8ba58a/assets/twitter-fill.svg"></a>
+- <a href="https://dev.to/ttbb"><img src="dev-to.png"></a>
 - <a href="mailto:ttbb_@outlook.com"><img src="https://raw.githubusercontent.com/tt-bb/tt-bb/6ef0c02a6dc318e01364c0c45de5883e4e878a13/assets/mail-send-line.svg"></a>
 
 ### Websites and blog
     
-- <a href="https://tiffanie-boreux.netlify.app/"><img src="https://raw.githubusercontent.com/tt-bb/tt-bb/961ac66dbd7533c27015513427efd86d0c8ba58a/assets/earth-line.svg"></a>
-- <a href="https://tt-bb.github.io"><img src="https://raw.githubusercontent.com/tt-bb/tt-bb/961ac66dbd7533c27015513427efd86d0c8ba58a/assets/pencil-line.svg"></a>
-- <a href="https://tt-bb.github.io/feeds/all.atom.xml"><img src="https://raw.githubusercontent.com/tt-bb/tt-bb/961ac66dbd7533c27015513427efd86d0c8ba58a/assets/rss-fill.svg"></a>
+- <a href="https://tiffanie-boreux.netlify.app/"><img src="https://raw.githubusercontent.com/tt-bb/tt-bb/e41d8de91acb5bdef4c679645c6868e49f36e7e5/assets/earth-line.svg"></a>
+- <a href="https://tt-bb.github.io"><img src="https://raw.githubusercontent.com/tt-bb/tt-bb/e41d8de91acb5bdef4c679645c6868e49f36e7e5/assets/pencil-line.svg"></a>
+- <a href="https://tt-bb.github.io/feeds/all.atom.xml"><img src="https://raw.githubusercontent.com/tt-bb/tt-bb/e41d8de91acb5bdef4c679645c6868e49f36e7e5/assets/rss-fill.svg"></a>
 
 ## Stack, softwares and tools
 
-<p align="center">
-    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" height="30" />
-    <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" height="30" />
-    <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" height="30">
-    <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="30">
-    <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white" height="30">
-    <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" height="30">
-</p>
-<p align="center">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30">
-    <img src="https://img.shields.io/badge/JS-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="30">
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="30">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" heigh="30" />
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="30">
-</p>
-<p align="center">
-    <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=white" height="30">
-    <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" height="30">
-    <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" height="30">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="30">
-</p>
+| **Stack** | **Softwares** | **Tools** | **OS** |
+|-----------|---------------|-----------|--------|
+| <img src="language-python.png"> <img src="language-javascript.png"> | <img src="firefox.png"> <img src="blender-software.png"> | <img src="language-markdown.png"> <img src="bash.png"> | Work : <img src="debian.png"> |
+| <img src="language-html5.png"> <img src="language-css3.png"> <img src="sass.png">| <img src="microsoft-onenote.png"> <img src="microsoft-visual-studio.png"> | <img src="git.png"> | Home : <img src="apple.png"> <img src="microsoft-windows.png"> |
 
+### Terminal
+
+<a><img src="">iTerm2</a>
+<br />
+<img src="terminal.png">
+
+#### Config
+
+#### Oh-my-ZSH
 
 ## Github
 
