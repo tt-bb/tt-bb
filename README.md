@@ -60,7 +60,7 @@ ttbb = {
 
 ### Terminal
 
-<a href="https://iterm2.com/"><img src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/application-brackets-outline.png"> : iTerm2</a>
+<a href="https://iterm2.com/"><img src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/application-brackets-outline.png"></a> : iTerm2
 <br />
 <img src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/terminal.png">
 
