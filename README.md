@@ -42,7 +42,7 @@ ttbb = {
 - <a href="https://stackoverflow.com/users/19015182/ttbb"><img src="https://raw.githubusercontent.com/tt-bb/tt-bb/961ac66dbd7533c27015513427efd86d0c8ba58a/assets/stack-overflow-line.svg"></a>
 - <a href="https://t.me/koala_kiwi"><img src="https://raw.githubusercontent.com/tt-bb/tt-bb/961ac66dbd7533c27015513427efd86d0c8ba58a/assets/telegram-line.svg"></a>
 - <a href="https://twitter.com/pop_grr"><img src="https://raw.githubusercontent.com/tt-bb/tt-bb/961ac66dbd7533c27015513427efd86d0c8ba58a/assets/twitter-fill.svg"></a>
-- <a href="https://dev.to/ttbb"><img src="dev-to.png"></a>
+- <a href="https://dev.to/ttbb"><img src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/dev-to.png"></a>
 - <a href="mailto:ttbb_@outlook.com"><img src="https://raw.githubusercontent.com/tt-bb/tt-bb/6ef0c02a6dc318e01364c0c45de5883e4e878a13/assets/mail-send-line.svg"></a>
 
 ### Websites and blog
@@ -55,14 +55,14 @@ ttbb = {
 
 | **Stack** | **Softwares** | **Tools** | **OS** |
 |-----------|---------------|-----------|--------|
-| <img src="language-python.png"> <img src="language-javascript.png"> | <img src="firefox.png"> <img src="blender-software.png"> | <img src="language-markdown.png"> <img src="bash.png"> | Work : <img src="debian.png"> |
-| <img src="language-html5.png"> <img src="language-css3.png"> <img src="sass.png">| <img src="microsoft-onenote.png"> <img src="microsoft-visual-studio.png"> | <img src="git.png"> | Home : <img src="apple.png"> <img src="microsoft-windows.png"> |
+| <img src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/language-python.png"> <img src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/language-javascript.png"> | <img src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/firefox.png"> <img src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/blender-software.png"> | <img src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/language-markdown.png"> <img src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/bash.png"> | Work : <img src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/debian.png"> |
+| <img src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/language-html5.png"> <img src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/language-css3.png"> <img src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/sass.png">| <img src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/microsoft-onenote.png"> <img src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/microsoft-visual-studio.png"> | <img src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/git.png"> | Home : <img src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/apple.png"> <img src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/microsoft-windows.png"> |
 
 ### Terminal
 
-<a><img src="">iTerm2</a>
+<a><img src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/application-brackets-outline.png">iTerm2</a>
 <br />
-<img src="terminal.png">
+<img src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/terminal.png">
 
 #### Config
 
