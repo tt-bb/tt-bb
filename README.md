@@ -62,11 +62,49 @@ ttbb = {
 
 <a href="https://iterm2.com/"><img src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/application-brackets-outline.png"></a> : iTerm2
 <br />
-<img src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/terminal.png">
+<p align="center">
+<img src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/terminal.png" width="500">
+</p>
 
 #### Config
 
+##### Colors
+
+Foreground : #c7c7c7
+Background : #383838
+
+| ANSI | Normal | Bright |
+|------|--------|--------|
+| Black | #616161 | #8e8e8e |
+| Red | #ff8272 | #ffc4bd |
+| Green | #b4fa72 | #d6fcb9 |
+| Yellow | #fefdc2 | #fefdd5 |
+| Blue | #a5d5fe | #c1e3fe |
+| Magenta | #ff8ffd | #ffb1fe |
+| Cyan | #d0d1fe | #e5e6fe |
+| White | #f1f1f1 | #feffff |
+
+##### Status bar
+
+Preferences > Profiles > Session > ☑ Status Bar Enabled
+
 #### Oh-my-ZSH
+
+```bash
+. "$HOME/.fig/shell/zshrc.pre.zsh"
+
+export ZSH="$HOME/.oh-my-zsh"
+
+ZSH_THEME=norm
+ZSH_THEME_RANDOM_CANDIDATES=(geoffgarside half-life nanotech norm ys )
+
+zstyle ':omz:update' mode reminder  # just remind me to update when it's time
+
+plugins=(git)
+
+source $ZSH/oh-my-zsh.sh
+. "$HOME/.fig/shell/zshrc.post.zsh"
+```
 
 ## Github
 
