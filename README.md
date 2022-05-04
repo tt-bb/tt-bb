@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python and its web frameworks**
 - 🥅 2022 Goals: Learn more about **Python** and **web development**
-- 👨‍💻 All of my projects are available at [tiffanie-boreux.netlify.app](https://tiffanie-boreux.netlify.app)
+- 👨‍💻 All of my projects are available at [boreux.dev](https://boreux.dev)
 - 📝 I regularly write articles on [tt-bb.github.io](https://tt-bb.github.io)
 - 💬 Ask me about **Linux** and **Networks**
 - ⚡ Fun fact **I think I am funny !** (I hope...)
