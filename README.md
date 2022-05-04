@@ -51,7 +51,7 @@ ttbb = {
 
 ### Websites and blog
     
-<a href="https://tiffanie-boreux.netlify.app/"><img title="Portfolio" src="https://raw.githubusercontent.com/tt-bb/tt-bb/e41d8de91acb5bdef4c679645c6868e49f36e7e5/assets/earth-line.svg"></a>&emsp;
+<a href="https://boreux.dev"><img title="Portfolio" src="https://raw.githubusercontent.com/tt-bb/tt-bb/e41d8de91acb5bdef4c679645c6868e49f36e7e5/assets/earth-line.svg"></a>&emsp;
 <a href="https://tt-bb.github.io"><img title="Blog" src="https://raw.githubusercontent.com/tt-bb/tt-bb/e41d8de91acb5bdef4c679645c6868e49f36e7e5/assets/pencil-line.svg"></a>&emsp;
 <a href="https://tt-bb.github.io/feeds/all.atom.xml"><img title="RSS" src="https://raw.githubusercontent.com/tt-bb/tt-bb/e41d8de91acb5bdef4c679645c6868e49f36e7e5/assets/rss-fill.svg"></a>
 
