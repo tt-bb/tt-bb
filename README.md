@@ -110,6 +110,10 @@ source $ZSH/oh-my-zsh.sh
 . "$HOME/.fig/shell/zshrc.post.zsh"
 ```
 
+## My last articles
+
+- <img title="Dev.to" src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/dev-to.png"> [LVM introduction](https://dev.to/ttbb/an-intro-to-lvm-5e87)
+
 ## Github
 
 <img src="https://activity-graph.herokuapp.com/graph?username=tt-bb&theme=minimal">
