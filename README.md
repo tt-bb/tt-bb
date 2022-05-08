@@ -3,7 +3,12 @@
 <h1 align="center">Hi, tt-bb here! 👋</h1>
 <h2 align="center">A passionate Network Administrator from Belgium and a Python enthousiast</h2>
 
-<img src="https://komarev.com/ghpvc/?username=tt-bb&label=Profile%20views&color=4caf4f&style=flat" alt="tt-bb" />
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=tt-bb&label=Profile%20views&style=flat&color=red" alt="tt-bb" />
+<img src="https://badges.pufler.dev/years/tt-bb" alt="tt-bb" />
+<img src="https://badges.pufler.dev/repos/tt-bb" alt="tt-bb" />
+<img src="https://wakatime.com/badge/user/6f3ca8b6-6d9e-4e50-98ff-187dc3ac315e.svg?style=flat alt="tt-bb" />
+</p>
 
 
 ## I'm a Student!
@@ -62,64 +67,15 @@ ttbb = {
 | <img title="Python" src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/language-python.png"> <img title="Javascript" src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/language-javascript.png"> | <img title="Firefox" src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/firefox.png"> <img title="Blender" src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/blender-software.png"> | <img title="Markdown" src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/language-markdown.png"> <img title="Bash (Zsh)" src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/bash.png"> | Work : <img title="Debian" src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/debian.png"> |
 | <img title="HTML5" src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/language-html5.png"> <img title="CSS3" src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/language-css3.png"> <img title="Sass / SCSS" src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/sass.png">| <img title="OneNote" src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/microsoft-onenote.png"> <img title="Visual Studio Code" src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/microsoft-visual-studio.png"> | <img title="Git" src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/git.png"> | Home : <img title="macOS" src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/apple.png"> <img title="Windows 10" src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/microsoft-windows.png"> |
 
-### Terminal
-
-<a href="https://iterm2.com/"><img title="Terminal" src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/application-brackets-outline.png"></a> : iTerm2
-<br />
-<p align="center">
-<img title="iTerm2" src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/terminal.png" width="500">
-</p>
-
-#### Config
-
-##### Colors
-
-Foreground : #c7c7c7
-Background : #383838
-
-| ANSI | Normal | Bright |
-|------|--------|--------|
-| Black | #616161 | #8e8e8e |
-| Red | #ff8272 | #ffc4bd |
-| Green | #b4fa72 | #d6fcb9 |
-| Yellow | #fefdc2 | #fefdd5 |
-| Blue | #a5d5fe | #c1e3fe |
-| Magenta | #ff8ffd | #ffb1fe |
-| Cyan | #d0d1fe | #e5e6fe |
-| White | #f1f1f1 | #feffff |
-
-##### Status bar
-
-Preferences > Profiles > Session > ☑ Status Bar Enabled
-
-#### Oh-my-ZSH
-
-```bash
-. "$HOME/.fig/shell/zshrc.pre.zsh"
-
-export ZSH="$HOME/.oh-my-zsh"
-
-ZSH_THEME=norm
-ZSH_THEME_RANDOM_CANDIDATES=(geoffgarside half-life nanotech norm ys )
-
-zstyle ':omz:update' mode reminder  # just remind me to update when it's time
-
-plugins=(git)
-
-source $ZSH/oh-my-zsh.sh
-. "$HOME/.fig/shell/zshrc.post.zsh"
-```
 
 ## My last articles
 
 - <img title="Dev.to" src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/dev-to.png"> [LVM introduction](https://dev.to/ttbb/an-intro-to-lvm-5e87)
 
-## Github
-
-<img src="https://activity-graph.herokuapp.com/graph?username=tt-bb&theme=minimal">
-<br />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tt-bb&theme=vue">
-<br />
-<img src="https://github-readme-stats.vercel.app/api?username=tt-bb">
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tt-bb">
+## Stats
+      
+<p align="center">
+       
+<img src="https://github-readme-stats.vercel.app/api?username=tt-bb&show_icons=true&title_color=4FCA50&text_color=000000&icon_color=4FCA50&bg_color=ffffff&hide_border=true&locale=fr" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tt-bb&title_color=4FCA50&text_color=000000&icon_color=4FCA50&bg_color=ffffff&hide_border=true&locale=fr&layout=compact&langs_count=10" />
+</p>
