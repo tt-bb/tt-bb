@@ -71,7 +71,7 @@ ttbb = {
 ## My last articles
 
 - <img title="Dev.to" src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/dev-to.png"> [LVM introduction](https://dev.to/ttbb/an-intro-to-lvm-5e87)
-- <img title="Dev.to" src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/dev-to.png"> [An LGBTQIA+ woman in tech](https://dev.to/ttbb/an-lgbtqia-woman-in-tech-350g)                                                                           -
+- <img title="Dev.to" src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/dev-to.png"> [An LGBTQIA+ woman in tech](https://dev.to/ttbb/an-lgbtqia-woman-in-tech-350g)
 
 ## Stats
       
