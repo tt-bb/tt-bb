@@ -46,7 +46,7 @@ ttbb = {
 
 <a href="https://fb.com/tiffanie.boreux"><img title="Facebook" src="https://raw.githubusercontent.com/tt-bb/tt-bb/961ac66dbd7533c27015513427efd86d0c8ba58a/assets/facebook-fill.svg"></a>&emsp;
 <a href="https://www.instagram.com/tiffanie.boreux/"><img title="Instagram" src="https://raw.githubusercontent.com/tt-bb/tt-bb/961ac66dbd7533c27015513427efd86d0c8ba58a/assets/instagram-line.svg"></a>&emsp;
-<a href="https://linkedin.com/in/tiffanie-boreux-828439176"><img title="LindedIn" src="https://raw.githubusercontent.com/tt-bb/tt-bb/961ac66dbd7533c27015513427efd86d0c8ba58a/assets/linkedin-fill.svg"></a>&emsp;
+<a href="https://linkedin.com/in/tiffanie-boreux/"><img title="LindedIn" src="https://raw.githubusercontent.com/tt-bb/tt-bb/961ac66dbd7533c27015513427efd86d0c8ba58a/assets/linkedin-fill.svg"></a>&emsp;
 <a href="https://www.reddit.com/user/tt-bb_"><img title="Reddit" src="https://raw.githubusercontent.com/tt-bb/tt-bb/961ac66dbd7533c27015513427efd86d0c8ba58a/assets/reddit-line.svg"></a>&emsp;
 <a href="https://stackoverflow.com/users/19015182/ttbb"><img title="StackOverFlow" src="https://raw.githubusercontent.com/tt-bb/tt-bb/961ac66dbd7533c27015513427efd86d0c8ba58a/assets/stack-overflow-line.svg"></a>&emsp;
 <a href="https://t.me/koala_kiwi"><img title="Telegram" src="https://raw.githubusercontent.com/tt-bb/tt-bb/961ac66dbd7533c27015513427efd86d0c8ba58a/assets/telegram-line.svg"></a>&emsp;
@@ -71,6 +71,7 @@ ttbb = {
 ## My last articles
 
 - <img title="Dev.to" src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/dev-to.png"> [LVM introduction](https://dev.to/ttbb/an-intro-to-lvm-5e87)
+- <img title="Dev.to" src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/dev-to.png"> [An LGBTQIA+ woman in tech]([https://dev.to/ttbb/an-intro-to-lvm-5e87](https://dev.to/ttbb/an-lgbtqia-woman-in-tech-350g))                                                                             -
 
 ## Stats
       
