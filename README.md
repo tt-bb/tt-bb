@@ -73,6 +73,10 @@ ttbb = {
 - <img title="Dev.to" src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/dev-to.png"> [LVM introduction](https://dev.to/ttbb/an-intro-to-lvm-5e87)
 - <img title="Dev.to" src="https://raw.githubusercontent.com/tt-bb/tt-bb/main/assets/dev-to.png"> [An LGBTQIA+ woman in tech](https://dev.to/ttbb/an-lgbtqia-woman-in-tech-350g)
 
+## My last tweets
+
+![github-readme-twitter](https://github-readme-twitter-gazf.vercel.app/api?id=tiffanie_boreux&show_retweet=off&show_reply=off)
+
 ## Stats
       
 <p align="center">
