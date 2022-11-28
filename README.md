@@ -1,220 +1,45 @@
+<div align="center">
+
 ![Header](https://raw.githubusercontent.com/tt-bb/tt-bb/main/header.png)  
+
+[![](https://visitcount.itsvg.in/api?id=tt-bb&icon=2&color=3)](https://visitcount.itsvg.in)
   
-  
-### <div align="center">I'm tt-bb, an ICT Systems Administrator from Belgium 🇧🇪 and a Python Afiçionado</div>  
-  
+### I'm tt-bb, an ICT Systems Administrator from Belgium 🇧🇪 and a Python Afiçionado
+
+# 💫 About Me:
+
 ## I'm a Student!
 
-- 🔭 I’m currently working on Data Structure and Algorithms  
-- 🌱 I’m currently learning Python and Flask  
-- ❓ Ask me about anything related to Cisco or Linux  
-- ⚡ Fun fact: I use tabs over spaces  
-
-## Skills  
+🔭 I’m currently working on Data Structures and Algorithms <br>
+🌱 I’m currently learning Python and Flask <br>
+💬 Ask me anything about Linux or Networks <br>
+⚡ Fun fact: I use spaces over tabs
 
 
-### Frontend
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/tiffanieboreux) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tiffanie.boreux) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tiffanie.boreux) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tiffanie.boreux) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/-ttbb-) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tiffanie_boreux) 
 
-<table>
-    <tr>
-        <td>
-            <div align="center">
-                <h3>CSS3</h3>
-                <img width="48px" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-            </div>
-        </td>
-        <td>
-            <div align="center">
-                <h3>HTML5</h3>
-                <img width="48px" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-            </div>
-        </td>
-        <td>
-            <div align="center">
-                <h3>Javascript</h3>
-                <img width="48px" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-            </div>
-        </td>
-        <td>
-            <div align="center">
-                <h3>Less</h3>
-                <img width="48px" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" />
-            </div>
-        </td>
-    </tr>
-</table>
-
-### Backend
-
-<table>
-    <tr>
-        <td>
-            <div align="center">
-                <h3>Python</h3>
-                <img width="48px" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-            </div>
-        </td>
-        <td>
-            <div align="center">
-                <h3>Django</h3>
-                <img width="48px" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-            </div>
-        </td>
-        <td>
-            <div align="center">
-                <h3>Flask</h3>
-                <img width="48px" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-            </div>
-        </td>
-    </tr>
-</table>
-
-### DevOps
-
-<table>
-    <tr>
-        <td>
-            <div align="center">
-                <h3>Docker</h3>
-                <img width="48px" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
-            </div>
-        </td>
-        <td>
-            <div align="center">
-                <h3>Bash</h3>
-                <img width="48px" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-            </div>
-        </td>
-        <td>
-            <div align="center">
-                <h3>GitHub</h3>
-                <img width="48px" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-            </div>
-        </td>
-        <td>
-            <div align="center">
-                <h3>Heroku</h3>
-                <img width="48px" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
-            </div>
-        </td>
-    </tr>
-</table>
-
-### Systems
-
-<table>
-    <tr>
-        <td>
-            <div align="center">
-                <h3>Android</h3>
-                <img width="48px" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
-            </div>
-        </td>
-        <td>
-            <div align="center">
-                <h3>Windows</h3>
-                <img width="48px" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-            </div>
-        </td>
-        <td>
-            <div align="center">
-                <h3>MacOS</h3>
-                <img width="48px" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
-            </div>
-        </td>
-        <td>
-            <div align="center">
-                <h3>Linux</h3>
-                <img width="48px" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-            </div>
-        </td>
-    </tr>
-</table>
-
-### Tools
-
-<table>
-    <tr>
-        <td>
-            <div align="center">
-                <h3>PyCharm</h3>
-                <img width="48px" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-            </div>
-        </td>
-        <td>
-            <div align="center">
-                <h3>Visual Studio Code</h3>
-                <img width="48px" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-            </div>
-        </td>
-        <td>
-            <div align="center">
-                <h3>Firefox</h3>
-                <img width="48px" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" />
-            </div>
-        </td>
-        <td>
-            <div align="center">
-                <h3>Markdown</h3>
-                <img width="48px" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
-            </div>
-        </td>
-    </tr>
-</table>
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/tt-bb" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/tiffanie_boreux" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/ttbb" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/tiffanie.boreux" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/tiffanie.boreux" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/tiffanie.boreux" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://hashnode.com/@ttbb" target="_blank">
-<img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
-</a>  
-</div> 
-
-<div align="center">
 
 ### My last tweets
 
 ![github-readme-twitter](https://github-readme-twitter-gazf.vercel.app/api?id=tiffanie_boreux&show_retweet=off&show_reply=off)
 
-  </div>
+### My blog articles
 
-## Github Stats  
+[The flying start of your blog with Pelican and Github Pages](https://dev.to/ttbb/the-flying-start-of-your-blog-with-pelican-and-github-pages-2go) <br>
+[How I made my CLI script to a website using Flask](https://dev.to/ttbb/how-i-made-my-cli-script-to-a-website-using-flask-1fbb) <br>
+[An LGBTQIA+ woman in tech](https://dev.to/ttbb/an-lgbtqia-woman-in-tech-350g) <br>
+[LVM introduction](https://dev.to/ttbb/an-intro-to-lvm-5e87) <br>
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=flat-square&logo=less&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat-square&logo=gimp&logoColor=FFFFFF) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
   
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=tt-bb&theme=vue&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=tt-bb&theme=vue&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tt-bb&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<br/>  
-
-<div align="center">
-    
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tt-bb&theme=vue) 
-    
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tt-bb&theme=vue) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tt-bb&theme=vue) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tt-bb&theme=vue) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tt-bb&theme=vue&utcOffset=8) 
+# ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 </div>
-
-## My blog articles
-
-- [The flying start of your blog with Pelican and Github Pages](https://dev.to/ttbb/the-flying-start-of-your-blog-with-pelican-and-github-pages-2go)
-- [How I made my CLI script to a website using Flask](https://dev.to/ttbb/how-i-made-my-cli-script-to-a-website-using-flask-1fbb)
-- [An LGBTQIA+ woman in tech](https://dev.to/ttbb/an-lgbtqia-woman-in-tech-350g)
-- [LVM introduction](https://dev.to/ttbb/an-intro-to-lvm-5e87)
